@@ -1,0 +1,6 @@
+[submodule "investmentdb/yfapi"]
+	path = investmentdb/yfapi
+	url = https://github.com/nelson9503/yfapi.git
+[submodule "investmentdb/iexcloudapi"]
+	path = investmentdb/iexcloudapi
+	url = https://github.com/nelson9503/iexcloudapi.git
